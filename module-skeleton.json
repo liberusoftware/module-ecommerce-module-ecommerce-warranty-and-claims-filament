@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-module-ecommerce-warranty-and-claims-filament",
+  "capabilityKey": "planned:ecommerce:module-ecommerce-warranty-and-claims",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-module-ecommerce-warranty-and-claims-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/module-ecommerce-warranty-and-claims.md",
+  "presentationPlan": "projects/ecommerce/filament/module-ecommerce-warranty-and-claims.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
